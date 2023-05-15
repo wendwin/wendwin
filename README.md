@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Wendwin</h1>
+<h1 align="center">I'm Wendwin</h1>
 <h3 align="center">I am a student of Information Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendwin&label=Profile%20views&color=0e75b6&style=flat" alt="wendwin" /> </p>
