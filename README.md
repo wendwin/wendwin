@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendwin&label=Profile%20views&color=0e75b6&style=flat" alt="wendwin" /> </p>
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **Front End Web Development and Python Programming**
+- 🌱 I’m currently learning **Web Development and Python Programming**
 - ⚡ Fun fact **Let's get started**
 
 <h3 align="left">Connect with me:</h3>
